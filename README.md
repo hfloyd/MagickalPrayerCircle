@@ -1,37 +1,17 @@
-## Welcome to GitHub Pages
+# Magickal Prayer Circle #
+## What Is This? ##
+MPC is a gathering place for people of all religious and spiritual beliefs who want to come together – in person, virtually, or just energetically – to positively influence the world, specifically by coordinated, focused intentions to impact world problems.
+## How Does It Work? ##
+Through our Discord community, members can propose issues for attention (for instance: reversing climate change, creating peace, alleviating hunger). The collective intelligence of the members will select a date/time for coordinated action, then any members who wish to participate can set up local, in-person gatherings, work privately on their own, or attend via a dedicated online Discord channel.
 
-You can use the [editor on GitHub](https://github.com/hfloyd/MagickalPrayerCircle/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+The actual energy work is left up to the individuals – it can take the form of meditation, silent or spoken prayers, ritual, etc. The power comes from the collective spiritual energy being focused at the same time.
+## Who Can Participate? ##
+Anyone, anywhere can join the MPC community and participate in energetic activities. You can belong to any faith tradition – or none at all. You don’t need to believe in “God” in any specific sense – you only need to believe that humans have spiritual energy that can be focused towards positive outcomes.
+## How Much Does It Cost? ##
+There is no charge for membership or participation in the MPC community. Individual gatherings might have costs set by organizers to cover expenses, but there is no obligation to participate in these events.
+## What Is the Time Commitment? ##
+All participation is voluntary, so you can spend as much or as little time as you want.
+## How Do I Join? ##
+The best way to be part of the community is to [join the Discord server](https://discord.gg/ekf5jYaHHS). Discord is a shared chatting platform (similar to Slack), which will server as the home-base for conversations and online participation.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/hfloyd/MagickalPrayerCircle/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+Additionally, there is an [email list](http://eepurl.com/h0_41H) which you can subscribe to which will send out notifications of upcoming scheduled activities.
